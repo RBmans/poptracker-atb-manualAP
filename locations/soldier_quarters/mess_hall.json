@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Mess Hall",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Photo - Diagram of Roman Tunnels",
+				"access_rules": ["wrench"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "SQ",
+				"x": 145,
+				"y": 455
+			}
+		]
+	}
+]

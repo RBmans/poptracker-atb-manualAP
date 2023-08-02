@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Detonator Handle",
+		"access_rules": ["$can_leave_oq, cutters"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Detonator Handle",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "RT",
+				"x": 315,
+				"y": 475
+			}
+		]
+	}
+]

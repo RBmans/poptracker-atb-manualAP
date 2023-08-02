@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Communications",
+		"access_rules": ["$can_leave_oq, communications_key"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Arsenal Code",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "SQ",
+				"x": 125,
+				"y": 115
+			}
+		]
+	}
+]

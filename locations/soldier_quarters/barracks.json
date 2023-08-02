@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Barracks",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Communications Key",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Note - Clement's Journal - Compelled",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Dog Tag - Clement",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Photo - Lambert's Family",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Dog Tag - In Barracks A",
+				"access_rules": ["$can_burn_rats"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "SQ",
+				"x": 300,
+				"y": 190
+			}
+		]
+	}
+]

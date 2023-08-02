@@ -1,0 +1,81 @@
+{
+    "tracker_items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_margin": "4,4",
+                "item_size": "4",
+                "rows": [
+                    [
+                        "flashlight",
+                        "pocket_watch",
+                        "gun",
+                        "shotgun"
+                    ],
+					[
+						"lockdown_wheel",
+						"cutters",
+						"wrench",
+						"lighter"
+					],
+					[
+						"empty_bottle",
+						"fuel_bottle",
+						"petrol_bomb",
+						"grenade"
+					],
+					[
+						"gas_grenade",
+						"torch",
+						"flare",
+						"pillbox_key"
+					],
+					[
+						"dynamite",
+						"detonator_handle",
+						"pocket_bag",
+						"communications_key"
+					]
+                ]
+            }
+        ]
+    },
+	"tracker_codes": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_margin": "4,4",
+                "item_size": "5",
+                "rows": [
+							[
+								"dog_tag_arsenal"
+							],
+							[
+								"dog_tag_auclair",
+								"dog_tag_bardin",
+								"dog_tag_boucher",
+								"dog_tag_clement"
+							],
+							[
+								"dog_tag_delisle",
+								"dog_tag_fortin",
+								"dog_tag_friloux",
+								"dog_tag_giraud"
+							],
+							[
+								"dog_tag_lambert",
+								"dog_tag_laval",
+								"dog_tag_stafford",
+								"dog_tag_travers"
+							]
+						]
+			}
+		]	
+	}			
+}

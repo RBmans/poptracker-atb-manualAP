@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Warden's Office",
+		"access_rules": ["$can_leave_oq, wrench"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Photo - Reading Documents",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "PR",
+				"x": 220,
+				"y": 235
+			}
+		]
+	}
+]

@@ -1,0 +1,16 @@
+﻿{
+    "name": "Amnesia: The Bunker - Archipelago Manual Tracker",
+    "game_name": "Amnesia: The Bunker",
+    "platform": "PC",
+    "package_version": "0.0.1",
+    "package_uid": "manual_thebunker_rbman",
+    "author": "RBman",
+    "variants": {
+        "itemrando": {
+            "display_name": "Archipelago Randomizer",
+            "flags": [
+                "ap"
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Clerk's Office - Soldier Quarters",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Map - Soldier Quarters",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Photo - Sleeping Arrangements",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "SQ",
+				"x": 475,
+				"y": 230
+			}
+		]
+	}
+]

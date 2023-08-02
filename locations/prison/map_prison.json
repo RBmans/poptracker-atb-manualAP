@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Processing",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Map - Prison",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "PR",
+				"x": 125,
+				"y": 240
+			}
+		]
+	}
+]

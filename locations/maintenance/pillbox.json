@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Pillbox",
+		"access_rules": ["$can_burn_rats, $can_leave_oq, pillbox_key", "$can_burn_rats, $can_leave_oq, grenade"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - Stafford",
+				"access_rules": [],
+				"item_count": 1
+			},
+		],
+		"map_locations": [
+			{
+				"map": "MN",
+				"x": 470,
+				"y": 55
+			}
+		]
+	}
+]

@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Break Room",
+		"access_rules": ["gun, $can_leave_oq", "wrench, $can_leave_oq", "grenade, $can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - Break Room",
+				"access_rules": ["$can_burn_rats"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "MN",
+				"x": 190,
+				"y": 450
+			}
+		]
+	}
+]

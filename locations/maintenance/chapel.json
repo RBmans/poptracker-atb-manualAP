@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Chapel",
+		"access_rules": ["$can_burn_rats, $can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Pillbox Key",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Dog Tag - Chapel",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "MN",
+				"x": 630,
+				"y": 415
+			}
+		]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Hallway",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - Hallway Near Barracks B",
+				"access_rules": ["$can_burn_rats"],
+				"item_count": 1
+			},
+			{
+				"name": "Photo - Electrical Diagram",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "SQ",
+				"x": 240,
+				"y": 355
+			}
+		]
+	}
+]

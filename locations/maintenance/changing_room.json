@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Changing Room",
+		"access_rules": ["$can_burn_rats, $can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - Changing Room",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "MN",
+				"x": 333,
+				"y": 544
+			}
+		]
+	}
+]

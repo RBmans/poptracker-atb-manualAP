@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Strategic Operations",
+		"access_rules": ["dog_tag_friloux"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Photo - Excavating",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "OQ",
+				"x": 345,
+				"y": 530
+			}
+		]
+	}
+]

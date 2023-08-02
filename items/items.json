@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Pocket Bag",
+        "type": "consumable",
+        "img": "images/items/pocket_bag.png",
+        "codes": "pocket_bag",
+        "max_quantity": 7,
+        "overlay_font_size": 14
+    },
+    {
+        "name": "Flashlight",
+        "type": "toggle",
+        "img": "images/items/flashlight.png",
+        "disabled_img": "images/items/flashlight.png",
+        "disabled_img_mods": "none",
+        "codes": "flashlight"
+    },
+    {
+        "name": "Cutters",
+        "type": "toggle",
+        "img": "images/items/cutters.png",
+        "codes": "cutters"
+    },
+    {
+        "name": "Dynamite",
+        "type": "toggle",
+        "img": "images/items/dynamite.png",
+        "codes": "dynamite"
+    },
+    {
+        "name": "Detonator Handle",
+        "type": "toggle",
+        "img": "images/items/detonator_handle.png",
+        "codes": "detonator_handle"
+    },
+    {
+        "name": "Gun",
+        "type": "toggle",
+        "img": "images/items/gun.png",
+        "codes": "gun"
+    },
+    {
+        "name": "Wrench",
+        "type": "toggle",
+        "img": "images/items/wrench.png",
+        "codes": "wrench"
+    },
+    {
+        "name": "Lockdown Wheel",
+        "type": "toggle",
+        "img": "images/items/lockdown_wheel.png",
+        "codes": "lockdown_wheel"
+    },
+    {
+        "name": "Communications Key",
+        "type": "toggle",
+        "img": "images/items/communications_key.png",
+        "codes": "communications_key"
+    },
+    {
+        "name": "Pillbox Key",
+        "type": "toggle",
+        "img": "images/items/pillbox_key.png",
+        "codes": "pillbox_key"
+    },
+    {
+        "name": "Shotgun",
+        "type": "toggle",
+        "img": "images/items/shotgun.png",
+        "codes": "shotgun"
+    },
+	{
+        "name": "Gas Mask",
+        "type": "toggle",
+        "img": "images/items/gas_mask.png",
+        "codes": "gas_mask"
+    },
+    {
+        "name": "Lighter",
+        "type": "toggle",
+        "img": "images/items/lighter.png",
+        "codes": "lighter"
+    },
+    {
+        "name": "Pocket Watch",
+        "type": "toggle",
+        "img": "images/items/pocket_watch.png",
+        "codes": "pocket_watch"
+    },
+    {
+        "name": "Grenade",
+        "type": "toggle",
+        "img": "images/items/grenade.png",
+        "codes": "grenade"
+    },
+    {
+        "name": "Gas Grenade",
+        "type": "toggle",
+        "img": "images/items/gas_grenade.png",
+        "codes": "gas_grenade"
+    },
+    {
+        "name": "Torch",
+        "type": "toggle",
+        "img": "images/items/torch.png",
+        "codes": "torch"
+    },
+    {
+        "name": "Flare",
+        "type": "toggle",
+        "img": "images/items/flare.png",
+        "codes": "flare"
+    },
+    {
+        "name": "Empty Bottle",
+        "type": "toggle",
+        "img": "images/items/empty_bottle.png",
+        "codes": "empty_bottle"
+    },
+    {
+        "name": "Petrol Bomb",
+        "type": "toggle",
+        "img": "images/items/petrol_bomb.png",
+        "codes": "petrol_bomb"
+    },
+    {
+        "name": "Fuel Bottle",
+        "type": "toggle",
+        "img": "images/items/fuel_bottle.png",
+        "codes": "fuel_bottle"
+    },
+    {
+        "name": "Code - Friloux",
+        "type": "toggle",
+        "img": "images/items/dog_tag_friloux.png",
+        "codes": "dog_tag_friloux"
+    },
+    {
+        "name": "Code - Stafford",
+        "type": "toggle",
+        "img": "images/items/dog_tag_stafford.png",
+        "codes": "dog_tag_stafford"
+    },
+    {
+        "name": "Code - Bardin",
+        "type": "toggle",
+        "img": "images/items/dog_tag_bardin.png",
+        "codes": "dog_tag_bardin"
+    },
+    {
+        "name": "Code - Fortin",
+        "type": "toggle",
+        "img": "images/items/dog_tag_fortin.png",
+        "codes": "dog_tag_fortin"
+    },
+    {
+        "name": "Code - Clement",
+        "type": "toggle",
+        "img": "images/items/dog_tag_clement.png",
+        "codes": "dog_tag_clement"
+    },
+    {
+        "name": "Code - Auclair",
+        "type": "toggle",
+        "img": "images/items/dog_tag_auclair.png",
+        "codes": "dog_tag_auclair"
+    },
+    {
+        "name": "Code - Travers",
+        "type": "toggle",
+        "img": "images/items/dog_tag_travers.png",
+        "codes": "dog_tag_travers"
+    },
+    {
+        "name": "Code - Lambert",
+        "type": "toggle",
+        "img": "images/items/dog_tag_lambert.png",
+        "codes": "dog_tag_lambert"
+    },
+    {
+        "name": "Code - Delisle",
+        "type": "toggle",
+        "img": "images/items/dog_tag_delisle.png",
+        "codes": "dog_tag_delisle"
+    },
+    {
+        "name": "Code - Giraud",
+        "type": "toggle",
+        "img": "images/items/dog_tag_giraud.png",
+        "codes": "dog_tag_giraud"
+    },
+    {
+        "name": "Code - Laval",
+        "type": "toggle",
+        "img": "images/items/dog_tag_laval.png",
+        "codes": "dog_tag_laval"
+    },
+    {
+        "name": "Code - Boucher",
+        "type": "toggle",
+        "img": "images/items/dog_tag_boucher.png",
+        "codes": "dog_tag_boucher"
+    },
+    {
+        "name": "Code - Arsenal",
+        "type": "toggle",
+        "img": "images/items/dog_tag_arsenal.png",
+        "codes": "dog_tag_arsenal"
+    }
+]

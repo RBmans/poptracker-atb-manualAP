@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Foreman's Quarters",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Photo - Petrol Bombs",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "MN",
+				"x": 145,
+				"y": 290
+			}
+		]
+	}
+]

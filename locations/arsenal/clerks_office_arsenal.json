@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Clerk's Office - Arsenal",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Map - Arsenal",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Photo - Cutting Tripwire",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "AR",
+				"x": 150,
+				"y": 150
+			}
+		]
+	}
+]

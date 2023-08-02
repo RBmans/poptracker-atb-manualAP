@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Crater",
+		"access_rules": ["$can_leave_oq, cutters"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Rabbit Toy",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Dog Tag - Lambert",
+				"access_rules": [],
+				"item_count": 1
+			}		
+		],
+		"map_locations": [
+			{
+				"map": "RT",
+				"x": 88,
+				"y": 483
+			}
+		]
+	}
+]

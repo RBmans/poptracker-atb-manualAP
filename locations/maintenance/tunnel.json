@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Workshop Tunnel",
+		"access_rules": ["$can_burn_rats, $can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - Tunnel #1",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Dog Tag - Tunnel #2",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Dog Tag - Tunnel #3",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "MN",
+				"x": 355,
+				"y": 195
+			}
+		]
+	}
+]

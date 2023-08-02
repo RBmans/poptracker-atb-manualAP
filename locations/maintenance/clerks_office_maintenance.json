@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Clerk's Office - Maintenance",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Photo - Petrol Bombs",
+				"access_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Map - Maintenance",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "MN",
+				"x": 50,
+				"y": 450
+			}
+		]
+	}
+]

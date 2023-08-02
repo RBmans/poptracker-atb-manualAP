@@ -1,0 +1,88 @@
+[
+	{
+		"name": "Mission Storage",
+		"access_rules": ["dog_tag_friloux"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Note - Clement's Journal - No Word",
+				"item_count": 1
+			},
+			{
+				"name": "Dog Tag - In Mission Storage",
+				"item_count": 1
+			},
+			{
+				"name": "Photo - Prying Vent",
+				"item_count": 1
+			},
+			{
+				"name": "Item from Auclair's Locker",
+				"access_rules": ["dog_tag_auclair"],
+				"item_count": 1
+			},
+			{
+				"name": "Item from Bardin's Locker",
+				"access_rules": ["dog_tag_bardin"],
+				"item_count": 1
+			},
+			{
+				"name": "Pocket Bag from Boucher's Locker",
+				"access_rules": ["dog_tag_boucher"],
+				"item_count": 1
+			},
+			{
+				"name": "Note from Clement's Locker - Routine Patrol",
+				"access_rules": ["dog_tag_clement"],
+				"item_count": 1
+			},
+			{
+				"name": "Photo from Clement's Locker - Clement and Lambert",
+				"access_rules": ["dog_tag_clement"],
+				"item_count": 1
+			},
+			{
+				"name": "Wheel from Delise's Locker",
+				"access_rules": ["dog_tag_celisle"],
+				"item_count": 1
+			},
+			{
+				"name": "Item from Fortin's Locker",
+				"access_rules": ["dog_tag_fortin"],
+				"item_count": 1
+			},
+			{
+				"name": "Lighter from Giraud's Locker",
+				"access_rules": ["dog_tag_giraud"],
+				"item_count": 1
+			},
+			{
+				"name": "Note from Lambert's Locker - Part 2",
+				"access_rules": ["dog_tag_lambert"],
+				"item_count": 1
+			},
+			{
+				"name": "Item from Laval's Locker",
+				"access_rules": ["dog_tag_laval"],
+				"item_count": 1
+			},
+			{
+				"name": "Wrench from Stafford's Locker",
+				"access_rules": ["dog_tag_stafford"],
+				"item_count": 1
+			},
+			{
+				"name": "Item from Travers' Locker",
+				"access_rules": ["dog_tag_travers"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "OQ",
+				"x": 144,
+				"y": 220
+			}
+		]
+	}
+]

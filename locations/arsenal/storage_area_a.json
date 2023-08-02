@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Storage Area A",
+		"access_rules": ["$can_leave_oq, dog_tag_arsenal"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - Storage Area A",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "AR",
+				"x": 350,
+				"y": 320
+			}
+		]
+	}
+]

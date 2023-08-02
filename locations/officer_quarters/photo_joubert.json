@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Joubert's Room",
+		"access_rules": ["dog_tag_friloux"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Photo - Claw Marks",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "OQ",
+				"x": 325,
+				"y": 450
+			}
+		]
+	}
+]

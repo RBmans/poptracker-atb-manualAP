@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Prisoner's Cell",
+		"access_rules": ["wrench, $can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Cutters",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "PR",
+				"x": 250,
+				"y": 60
+			}
+		]
+	}
+]

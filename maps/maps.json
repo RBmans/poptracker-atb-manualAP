@@ -1,0 +1,38 @@
+﻿[
+    {
+        "name": "OQ",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/officer_quarters.png"
+    },
+    {
+        "name": "SQ",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/soldier_quarters.png"
+    },
+    {
+        "name": "MN",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/maintenance.png"
+    },
+    {
+        "name": "PR",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/prison.png"
+    },
+	{
+        "name": "AR",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/arsenal.png"
+    },
+	{
+        "name": "RT",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/roman_tunnels.png"
+    }
+]
