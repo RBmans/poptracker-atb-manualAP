@@ -3,4 +3,4 @@
 An PopTracker pack with map for\
 [the Amnesia: The Bunker Manual AP implementation]([https://github.com/PoryGone](https://github.com/RBmans/AmnesiaTheBunkerManualAP))
 
-Autotracking not yet implemented.
+Autotracking through Archipelago has been added, and should be functional.
