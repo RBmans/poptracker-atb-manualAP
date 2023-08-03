@@ -8,11 +8,17 @@
         "overlay_font_size": 14
     },
     {
+        "name": "Bullets",
+        "type": "consumable",
+        "img": "images/items/bullet.png",
+        "codes": "bullet",
+        "max_quantity": 29,
+        "overlay_font_size": 14
+    },
+    {
         "name": "Flashlight",
         "type": "toggle",
         "img": "images/items/flashlight.png",
-        "disabled_img": "images/items/flashlight.png",
-        "disabled_img_mods": "none",
         "codes": "flashlight"
     },
     {

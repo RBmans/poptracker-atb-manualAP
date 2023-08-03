@@ -22,7 +22,7 @@
 						"lighter"
 					],
 					[
-						"empty_bottle",
+						"gas_mask",
 						"fuel_bottle",
 						"petrol_bomb",
 						"grenade"
@@ -31,13 +31,13 @@
 						"gas_grenade",
 						"torch",
 						"flare",
-						"pillbox_key"
+						"communications_key"
 					],
 					[
 						"dynamite",
 						"detonator_handle",
 						"pocket_bag",
-						"communications_key"
+						"bullet"
 					]
                 ]
             }

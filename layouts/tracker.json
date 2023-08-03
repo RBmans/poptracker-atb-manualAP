@@ -43,6 +43,15 @@
                 {
                     "type": "tabbed",
                     "tabs": [
+						{
+                            "title": "Central Bunker",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "CB"
+                                ]
+                            }
+                        },
                         {
                             "title": "Officer Quarters",
                             "content": {

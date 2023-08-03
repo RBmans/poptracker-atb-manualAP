@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Joubert's Room",
-		"access_rules": ["dog_tag_friloux"],
+		"name": "Doctor's Office",
+		"access_rules": [],
 		"visibility_rules": [],
 		"sections": [
 			{
-				"name": "Photo - Claw Marks",
+				"name": "Photo - Reynald's Corpse",
 				"access_rules": [],
 				"item_count": 1
 			}
 		],
 		"map_locations": [
 			{
-				"map": "OQ",
-				"x": 33,
-				"y": 30
+				"map": "CB",
+				"x": 525,
+				"y": 255
 			}
 		]
 	}

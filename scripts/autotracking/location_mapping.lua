@@ -1,231 +1,77 @@
 LOCATION_MAPPING = {
-    [0xBC0000] = {"Yoshi's Island 1", "Normal Exit"},
-    [0xBC0100] = {"Yoshi's Island 1", "Dragon Coins"},
-    
-    [0xBC0001] = {"Yoshi's Island 2", "Normal Exit"},
-    [0xBC0101] = {"Yoshi's Island 2", "Dragon Coins"},
-    
-    [0xBC0002] = {"Yoshi's Island 3", "Normal Exit"},
-    [0xBC0102] = {"Yoshi's Island 3", "Dragon Coins"},
-    
-    [0xBC0003] = {"Yoshi's Island 4", "Normal Exit"},
-    [0xBC0103] = {"Yoshi's Island 4", "Dragon Coins"},
-    
-    [0xBC0004] = {"#1 Iggy's Castle", "Normal Exit"},
-    [0xBC00A0] = {"#1 Iggy's Castle", "Boss"},
-
-    [0xBC0005] = {"Yellow Switch Palace", "Normal Exit"},
-    
-    [0xBC0006] = {"Donut Plains 1", "Normal Exit"},
-    [0xBC0007] = {"Donut Plains 1", "Secret Exit"},
-    [0xBC0106] = {"Donut Plains 1", "Dragon Coins"},
-    
-    [0xBC0008] = {"Donut Plains 2", "Normal Exit"},
-    [0xBC0009] = {"Donut Plains 2", "Secret Exit"},
-    [0xBC0108] = {"Donut Plains 2", "Dragon Coins"},
-    
-    [0xBC000A] = {"Donut Plains 3", "Normal Exit"},
-    [0xBC010A] = {"Donut Plains 3", "Dragon Coins"},
-    
-    [0xBC000B] = {"Donut Plains 4", "Normal Exit"},
-    [0xBC010B] = {"Donut Plains 4", "Dragon Coins"},
-    
-    [0xBC000C] = {"Donut Secret 1", "Normal Exit"},
-    [0xBC000D] = {"Donut Secret 1", "Secret Exit"},
-    [0xBC010C] = {"Donut Secret 1", "Dragon Coins"},
-    
-    [0xBC0063] = {"Donut Secret 2", "Normal Exit"},
-    [0xBC010D] = {"Donut Secret 2", "Dragon Coins"},
-    
-    [0xBC000E] = {"Donut Ghost House", "Normal Exit"},
-    [0xBC000F] = {"Donut Ghost House", "Secret Exit"},
-    
-    [0xBC0010] = {"Donut Secret House", "Normal Exit"},
-    [0xBC0011] = {"Donut Secret House", "Secret Exit"},
-    
-    [0xBC0012] = {"#2 Morton's Castle", "Normal Exit"},
-    [0xBC00A1] = {"#2 Morton's Castle", "Boss"},
-
-    [0xBC0013] = {"Green Switch Palace", "Normal Exit"},
-    
-    [0xBC0014] = {"Vanilla Dome 1", "Normal Exit"},
-    [0xBC0015] = {"Vanilla Dome 1", "Secret Exit"},
-    [0xBC0114] = {"Vanilla Dome 1", "Dragon Coins"},
-    
-    [0xBC0016] = {"Vanilla Dome 2", "Normal Exit"},
-    [0xBC0017] = {"Vanilla Dome 2", "Secret Exit"},
-    [0xBC0116] = {"Vanilla Dome 2", "Dragon Coins"},
-    
-    [0xBC0018] = {"Vanilla Dome 3", "Normal Exit"},
-    [0xBC0118] = {"Vanilla Dome 3", "Dragon Coins"},
-    
-    [0xBC0019] = {"Vanilla Dome 4", "Normal Exit"},
-    [0xBC0119] = {"Vanilla Dome 4", "Dragon Coins"},
-    
-    [0xBC001A] = {"Vanilla Secret 1", "Normal Exit"},
-    [0xBC001B] = {"Vanilla Secret 1", "Secret Exit"},
-    [0xBC011A] = {"Vanilla Secret 1", "Dragon Coins"},
-    
-    [0xBC001C] = {"Vanilla Secret 2", "Normal Exit"},
-    [0xBC011C] = {"Vanilla Secret 2", "Dragon Coins"},
-    
-    [0xBC001D] = {"Vanilla Secret 3", "Normal Exit"},
-    [0xBC011D] = {"Vanilla Secret 3", "Dragon Coins"},
-    
-    [0xBC001E] = {"Vanilla Ghost House", "Normal Exit"},
-    [0xBC011E] = {"Vanilla Ghost House", "Dragon Coins"},
-    
-    [0xBC0020] = {"Vanilla Fortress", "Normal Exit"},
-    [0xBC00B0] = {"Vanilla Fortress", "Boss"},
-    
-    [0xBC0021] = {"#3 Lemmy's Castle", "Normal Exit"},
-    [0xBC00A2] = {"#3 Lemmy's Castle", "Boss"},
-
-    [0xBC0022] = {"Red Switch Palace", "Normal Exit"},
-    
-    [0xBC0023] = {"Butter Bridge 1", "Normal Exit"},
-    [0xBC0123] = {"Butter Bridge 1", "Dragon Coins"},
-    
-    [0xBC0024] = {"Butter Bridge 2", "Normal Exit"},
-    [0xBC0124] = {"Butter Bridge 2", "Dragon Coins"},
-    
-    [0xBC0025] = {"Cheese Bridge", "Normal Exit"},
-    [0xBC0026] = {"Cheese Bridge", "Secret Exit"},
-    [0xBC0125] = {"Cheese Bridge", "Dragon Coins"},
-    
-    [0xBC0027] = {"Cookie Mountain", "Normal Exit"},
-    [0xBC0127] = {"Cookie Mountain", "Dragon Coins"},
-    
-    [0xBC0028] = {"Soda Lake", "Normal Exit"},
-    [0xBC0128] = {"Soda Lake", "Dragon Coins"},
-    
-    [0xBC0029] = {"#4 Ludwig's Castle", "Normal Exit"},
-    [0xBC00A3] = {"#4 Ludwig's Castle", "Boss"},
-    
-    [0xBC002A] = {"Forest of Illusion 1", "Normal Exit"},
-    [0xBC002B] = {"Forest of Illusion 1", "Secret Exit"},
-    
-    [0xBC002C] = {"Forest of Illusion 2", "Normal Exit"},
-    [0xBC002D] = {"Forest of Illusion 2", "Secret Exit"},
-    [0xBC012C] = {"Forest of Illusion 2", "Dragon Coins"},
-    
-    [0xBC002E] = {"Forest of Illusion 3", "Normal Exit"},
-    [0xBC002F] = {"Forest of Illusion 3", "Secret Exit"},
-    [0xBC012E] = {"Forest of Illusion 3", "Dragon Coins"},
-    
-    [0xBC0030] = {"Forest of Illusion 4", "Normal Exit"},
-    [0xBC0031] = {"Forest of Illusion 4", "Secret Exit"},
-    [0xBC0130] = {"Forest of Illusion 4", "Dragon Coins"},
-    
-    [0xBC0032] = {"Forest Ghost House", "Normal Exit"},
-    [0xBC0033] = {"Forest Ghost House", "Secret Exit"},
-    [0xBC0132] = {"Forest Ghost House", "Dragon Coins"},
-    
-    [0xBC0034] = {"Forest Secret", "Normal Exit"},
-    [0xBC0134] = {"Forest Secret", "Dragon Coins"},
-    
-    [0xBC0035] = {"Forest Fortress", "Normal Exit"},
-    [0xBC00B1] = {"Forest Fortress", "Boss"},
-    
-    [0xBC0036] = {"#5 Roy's Castle", "Normal Exit"},
-    [0xBC0136] = {"#5 Roy's Castle", "Dragon Coins"},
-    [0xBC00A4] = {"#5 Roy's Castle", "Boss"},
-
-    [0xBC0037] = {"Blue Switch Palace", "Normal Exit"},
-    
-    [0xBC0038] = {"Chocolate Island 1", "Normal Exit"},
-    [0xBC0138] = {"Chocolate Island 1", "Dragon Coins"},
-    
-    [0xBC0039] = {"Chocolate Island 2", "Normal Exit"},
-    [0xBC003A] = {"Chocolate Island 2", "Secret Exit"},
-    [0xBC0139] = {"Chocolate Island 2", "Dragon Coins"},
-    
-    [0xBC003B] = {"Chocolate Island 3", "Normal Exit"},
-    [0xBC003C] = {"Chocolate Island 3", "Secret Exit"},
-    [0xBC013B] = {"Chocolate Island 3", "Dragon Coins"},
-    
-    [0xBC003D] = {"Chocolate Island 4", "Normal Exit"},
-    [0xBC013D] = {"Chocolate Island 4", "Dragon Coins"},
-    
-    [0xBC003E] = {"Chocolate Island 5", "Normal Exit"},
-    [0xBC013E] = {"Chocolate Island 5", "Dragon Coins"},
-    
-    [0xBC003F] = {"Choco-Ghost House", "Normal Exit"},
-    
-    [0xBC0041] = {"Chocolate Secret", "Normal Exit"},
-    
-    [0xBC0042] = {"Chocolate Fortress", "Normal Exit"},
-    [0xBC00B2] = {"Chocolate Fortress", "Boss"},
-    
-    [0xBC0043] = {"#6 Wendy's Castle", "Normal Exit"},
-    [0xBC00A5] = {"#6 Wendy's Castle", "Boss"},
-    
-    [0xBC0044] = {"Sunken Ghost Ship", "Normal Exit"},
-    [0xBC0144] = {"Sunken Ghost Ship", "Dragon Coins"},
-    
-    [0xBC0045] = {"Valley of Bowser 1", "Normal Exit"},
-    [0xBC0145] = {"Valley of Bowser 1", "Dragon Coins"},
-    
-    [0xBC0046] = {"Valley of Bowser 2", "Normal Exit"},
-    [0xBC0047] = {"Valley of Bowser 2", "Secret Exit"},
-    [0xBC0146] = {"Valley of Bowser 2", "Dragon Coins"},
-    
-    [0xBC0048] = {"Valley of Bowser 3", "Normal Exit"},
-    [0xBC0148] = {"Valley of Bowser 3", "Dragon Coins"},
-    
-    [0xBC0049] = {"Valley of Bowser 4", "Normal Exit"},
-    [0xBC004A] = {"Valley of Bowser 4", "Secret Exit"},
-    
-    [0xBC004B] = {"Valley Ghost House", "Normal Exit"},
-    [0xBC004C] = {"Valley Ghost House", "Secret Exit"},
-    [0xBC014B] = {"Valley Ghost House", "Dragon Coins"},
-    
-    [0xBC004E] = {"Valley Fortress", "Normal Exit"},
-    [0xBC00B3] = {"Valley Fortress", "Boss"},
-    
-    [0xBC004F] = {"#7 Larry's Castle", "Normal Exit"},
-    [0xBC014F] = {"#7 Larry's Castle", "Dragon Coins"},
-    [0xBC00A6] = {"#7 Larry's Castle", "Boss"},
-
-    [0xBC0050] = {"Bowser", "Boss"},
-    
-    [0xBC0051] = {"Star World 1", "Normal Exit"},
-    [0xBC0052] = {"Star World 1", "Secret Exit"},
-    [0xBC0151] = {"Star World 1", "Dragon Coins"},
-    
-    [0xBC0053] = {"Star World 2", "Normal Exit"},
-    [0xBC0054] = {"Star World 2", "Secret Exit"},
-    
-    [0xBC0055] = {"Star World 3", "Normal Exit"},
-    [0xBC0056] = {"Star World 3", "Secret Exit"},
-    
-    [0xBC0057] = {"Star World 4", "Normal Exit"},
-    [0xBC0058] = {"Star World 4", "Secret Exit"},
-    
-    [0xBC0059] = {"Star World 5", "Normal Exit"},
-    [0xBC005A] = {"Star World 5", "Secret Exit"},
-    
-    [0xBC005B] = {"Gnarly", "Normal Exit"},
-    [0xBC015B] = {"Gnarly", "Dragon Coins"},
-    
-    [0xBC005C] = {"Tubular", "Normal Exit"},
-    [0xBC015C] = {"Tubular", "Dragon Coins"},
-    
-    [0xBC005D] = {"Way Cool", "Normal Exit"},
-    [0xBC015D] = {"Way Cool", "Dragon Coins"},
-    
-    [0xBC005E] = {"Awesome", "Normal Exit"},
-    [0xBC015E] = {"Awesome", "Dragon Coins"},
-    
-    [0xBC005F] = {"Groovy", "Normal Exit"},
-    [0xBC015F] = {"Groovy", "Dragon Coins"},
-    
-    [0xBC0060] = {"Mondo", "Normal Exit"},
-    [0xBC0160] = {"Mondo", "Dragon Coins"},
-    
-    [0xBC0061] = {"Outrageous", "Normal Exit"},
-    [0xBC0161] = {"Outrageous", "Dragon Coins"},
-    
-    [0xBC0062] = {"Funky", "Normal Exit"},
-    [0xBC0162] = {"Funky", "Dragon Coins"},
+    [867539502] = {"@Explosives Storage/Dynamite"},
+	[867539540] = {"@Clerk's Office - Arsenal/Map - Arsenal"},
+	[867539539] = {"@Clerk's Office - Arsenal/Photo - Cutting Tripwire"},
+	[867539566] = {"@Munitions Storage/Dog Tag - Near Area A"},
+	[867539567] = {"@Storage Area A/Dog Tag - Storage Area A"},
+	
+	[867539569] = {"@Arena/Escape"},
+	[867539549] = {"@Administration/Dog Tag - Batiste"},
+	[867539548] = {"@Generator Room/Dog Tag - Friloux"},
+	[867539505] = {"@Generator Room/Pocket Watch"},
+	[867539500] = {"@Kitchen/Gun"},
+	[867539542] = {"@Medical Storage/Note - Clement's Journal - Agony"},
+	[867539543] = {"@Mission Storage/Note - Clement's Journal - No Word"},
+	[867539554] = {"@Mission Storage/Dog Tag - In Mission Storage"},
+	[867539522] = {"@Mission Storage/Photo - Prying Vent"},
+	[867539516] = {"@Mission Storage/Item from Auclair's Locker"},
+	[867539518] = {"@Mission Storage/Item from Bardin's Locker"},
+	[867539520] = {"@Mission Storage/Pocket Bag from Boucher's Locker"},
+	[867539544] = {"@Mission Storage/Note from Clement's Locker - Routine Patrol"},
+	[867539523] = {"@Mission Storage/Photo from Clement's Locker - Clement and Lambert"},
+	[867539507] = {"@Mission Storage/Wheel from Delisle's Locker"},
+	[867539517] = {"@Mission Storage/Item from Fortin's Locker"},
+	[867539509] = {"@Mission Storage/Lighter from Giraud's Locker"},
+	[867539547] = {"@Mission Storage/Note from Lambert's Locker - Part 2"},
+	[867539510] = {"@Mission Storage/Gas Mask from Laval's Locker"},
+	[867539506] = {"@Mission Storage/Wrench from Stafford's Locker"},
+	[867539515] = {"@Mission Storage/Item from Travers' Locker"},
+	[867539501] = {"@Medical Storage/Flashlight"},
+	[867539526] = {"@Doctor's Office/Photo - Reynald's Corpse"},
+	
+	[867539563] = {"@Break Room/Dog Tag - Break Room"},
+	[867539558] = {"@Changing Room/Dog Tag - Changing Room"},
+	[867539562] = {"@Chapel/Dog Tag - Chapel"},
+	[867539513] = {"@Chapel/Pillbox Key"},
+	[867539537] = {"@Clerk's Office - Maintenance/Photo - Preparing Corpses"},
+	[867539538] = {"@Clerk's Office - Maintenance/Map - Maintenance"},
+	[867539536] = {"@Foreman's Quarters/Photo - Petrol Bombs"},
+	[867539557] = {"@Foreman's Quarters/Dog Tag - Foreman's Quarters"},
+	[867539556] = {"@Outside Break Room/Dog Tag - In Hallway"},
+	[867539551] = {"@Pillbox/Dog Tag - Stafford"},
+	[867539559] = {"@Workshop Tunnel/Dog Tag - Tunnel #1"},
+	[867539560] = {"@Workshop Tunnel/Dog Tag - Tunnel #2"},
+	[867539561] = {"@Workshop Tunnel/Dog Tag - Tunnel #3"},
+	
+	[867539550] = {"@Delisle's Room/Dog Tag - Delisle"},
+	[867539519] = {"@Delisle's Room/Pocket Bag - Delisle's Room"},
+	[867539555] = {"@Hallway Near Wine Cellar/Dog Tag - Near Wine Cellar"},
+	[867539524] = {"@Fournier's Room/Photo - Severed Hand"},
+	[867539525] = {"@Joubert's Room/Photo - Claw Marks"},
+	[867539527] = {"@Strategic Operations/Photo - Excavating"},
+	
+	[867539511] = {"@Prisoner's Cell/Cutters"},
+	[867539529] = {"@Processing/Map - Prison"},
+	[867539528] = {"@Warden's Office/Photo - Reading Documents"},
+	
+	[867539503] = {"@Crater/Rabbit Toy"},
+	[867539553] = {"@Crater/Dog Tag - Lambert"},
+	[867539504] = {"@Detonator Handle/Detonator Handle"},
+	[867539521] = {"@Detonator Handle/Pocket Bag - Roman Tunnels"},
+	[867539508] = {"@Foggy Room/Shotgun"},
+	[867539541] = {"@Save Room/Photo - Blasting Door"},
+	
+	[867539514] = {"@Communications/Arsenal Code"},
+	[867539512] = {"@Barracks/Communications Key"},
+	[867539545] = {"@Barracks/Note - Clement's Journal - Compelled"},
+	[867539552] = {"@Barracks/Dog Tag - Clement"},
+	[867539531] = {"@Barracks/Photo - Lambert's Family"},
+	[867539564] = {"@Barracks/Dog Tag - In Barracks A"},
+	[867539535] = {"@Clerk's Office - Soldier Quarters/Map - Soldier Quarters"},
+	[867539533] = {"@Clerk's Office - Soldier Quarters/Photo - Sleeping Arrangements"},
+	[867539530] = {"@Darkroom/Photo - Partying"},
+	[867539565] = {"@Hallway/Dog Tag - Hallway Near Barracks B"},
+	[867539534] = {"@Hallway/Photo - Electrical Diagram"},
+	[867539532] = {"@Mess Hall/Photo - Diagram of Roman Tunnels"}
+	
 }

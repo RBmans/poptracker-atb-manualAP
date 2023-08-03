@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Outside Break Room",
+		"access_rules": [],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - In Hallway",
+				"access_rules": ["$can_burn_rats"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "MN",
+				"x": 177,
+				"y": 398
+			}
+		]
+	}
+]

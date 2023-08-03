@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Pillbox",
-		"access_rules": ["$can_burn_rats, $can_leave_oq, pillbox_key", "$can_burn_rats, $can_leave_oq, grenade"],
+		"access_rules": ["$can_burn_rats, $can_leave_oq"],
 		"visibility_rules": [],
 		"sections": [
 			{

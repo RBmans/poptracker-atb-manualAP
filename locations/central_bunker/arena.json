@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Arena",
+		"access_rules": ["dynamite, detonator_handle, dog_tag_friloux"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Escape",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "CB",
+				"x": 269,
+				"y": 70
+			}
+		]
+	}
+]

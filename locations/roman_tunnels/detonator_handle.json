@@ -8,6 +8,11 @@
 				"name": "Detonator Handle",
 				"access_rules": [],
 				"item_count": 1
+			},
+			{
+				"name": "Pocket Bag - Roman Tunnels",
+				"access_rules": [],
+				"item_count": 1
 			}
 		],
 		"map_locations": [

@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Administration",
+		"access_rules": [],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - Batiste",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "CB",
+				"x": 317,
+				"y": 285
+			}
+		]
+	}
+]

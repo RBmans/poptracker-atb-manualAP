@@ -1,4 +1,10 @@
 ﻿[
+	{
+        "name": "CB",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/central_bunker.png"
+    },
     {
         "name": "OQ",
         "location_size": 20,
