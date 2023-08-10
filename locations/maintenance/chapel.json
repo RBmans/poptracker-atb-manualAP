@@ -13,6 +13,11 @@
 				"name": "Dog Tag - Chapel",
 				"access_rules": [],
 				"item_count": 1
+			},
+			{
+				"name": "Note - Lambert's Journal - Part 1",
+				"access_rules": [],
+				"item_count":1
 			}
 		],
 		"map_locations": [

@@ -33,6 +33,7 @@ LOCATION_MAPPING = {
 	[867539558] = {"@Changing Room/Dog Tag - Changing Room"},
 	[867539562] = {"@Chapel/Dog Tag - Chapel"},
 	[867539513] = {"@Chapel/Pillbox Key"},
+	[867539546] = {"@Chapel/Note - Lambert's Journal - Part 1"},
 	[867539537] = {"@Clerk's Office - Maintenance/Photo - Preparing Corpses"},
 	[867539538] = {"@Clerk's Office - Maintenance/Map - Maintenance"},
 	[867539536] = {"@Foreman's Quarters/Photo - Petrol Bombs"},

@@ -12,7 +12,7 @@
         "type": "consumable",
         "img": "images/items/bullet.png",
         "codes": "bullet",
-        "max_quantity": 29,
+        "max_quantity": 20,
         "overlay_font_size": 14
     },
     {
