@@ -212,5 +212,11 @@
         "type": "toggle",
         "img": "images/items/dog_tag_arsenal.png",
         "codes": "dog_tag_arsenal"
+    },
+	{
+        "name": "Code - Milliard",
+        "type": "toggle",
+        "img": "images/items/dog_tag_milliard.png",
+        "codes": "dog_tag_milliard"
     }
 ]

@@ -1,0 +1,21 @@
+[
+	{
+		"name": "NW Prison Cell",
+		"access_rules": ["$can_leave_oq"],
+		"visibility_rules": [],
+		"sections": [
+			{
+				"name": "Dog Tag - NW Prison Cell",
+				"access_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "PR",
+				"x": 193,
+				"y": 33
+			}
+		]
+	}
+]

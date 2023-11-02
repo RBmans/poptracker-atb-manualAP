@@ -20,7 +20,7 @@ ITEM_MAPPING = {
 	[867539031] = {"empty_bottle", "toggle"},
 	[867539032] = {"petrol_bomb", "toggle"},
 	[867539033] = {"fuel_bottle", "toggle"},
-	[867539037] = {"bullet", "consumable"},
+	[867539038] = {"bullet", "consumable"},
 	[867539018] = {"dog_tag_friloux", "toggle"},
 	[867539019] = {"dog_tag_arsenal", "toggle"},
 	[867539020] = {"dog_tag_stafford", "toggle"},
@@ -34,4 +34,5 @@ ITEM_MAPPING = {
 	[867539028] = {"dog_tag_giraud", "toggle"},
 	[867539029] = {"dog_tag_laval", "toggle"},
 	[867539030] = {"dog_tag_boucher", "toggle"},
+	[867539034] = {"dog_tag_milliard", "toggle"}
 }

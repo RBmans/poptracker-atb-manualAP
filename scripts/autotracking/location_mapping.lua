@@ -54,6 +54,7 @@ LOCATION_MAPPING = {
 	[867539511] = {"@Prisoner's Cell/Cutters"},
 	[867539529] = {"@Processing/Map - Prison"},
 	[867539528] = {"@Warden's Office/Photo - Reading Documents"},
+	[867539568] = {"@NW Prison Cell/Dog Tag - NW Prison Cell"},
 	
 	[867539503] = {"@Crater/Rabbit Toy"},
 	[867539553] = {"@Crater/Dog Tag - Lambert"},

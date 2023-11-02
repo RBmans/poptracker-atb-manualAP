@@ -15,6 +15,7 @@ Tracker:AddLocations("locations/officer_quarters/photo_strategic.json")
 Tracker:AddLocations("locations/prison/photo_warden.json")
 Tracker:AddLocations("locations/prison/map_prison.json")
 Tracker:AddLocations("locations/prison/cutters.json")
+Tracker:AddLocations("locations/prison/milliardtag.json")
 
 Tracker:AddLocations("locations/maintenance/photo_foremans.json")
 Tracker:AddLocations("locations/maintenance/clerks_office_maintenance.json")

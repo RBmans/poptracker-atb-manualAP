@@ -54,23 +54,24 @@
                 "item_size": "5",
                 "rows": [
 							[
-								"dog_tag_arsenal"
+								"dog_tag_arsenal",
+								"dog_tag_auclair"
 							],
 							[
-								"dog_tag_auclair",
 								"dog_tag_bardin",
 								"dog_tag_boucher",
-								"dog_tag_clement"
+								"dog_tag_clement",
+								"dog_tag_delisle"
 							],
 							[
-								"dog_tag_delisle",
 								"dog_tag_fortin",
 								"dog_tag_friloux",
-								"dog_tag_giraud"
+								"dog_tag_giraud",
+								"dog_tag_lambert"
 							],
 							[
-								"dog_tag_lambert",
 								"dog_tag_laval",
+								"dog_tag_milliard",
 								"dog_tag_stafford",
 								"dog_tag_travers"
 							]

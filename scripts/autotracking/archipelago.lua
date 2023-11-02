@@ -68,6 +68,7 @@ end
 
 -- called when an item gets collected
 function onItem(index, item_id, item_name, player_number)
+	print(item_name, item_id)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("called onItem: %s, %s, %s, %s, %s", index, item_id, item_name, player_number, CUR_INDEX))
     end
